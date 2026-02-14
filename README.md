@@ -1,4 +1,4 @@
-- Adjust Melee Critical Chance.
+# Adjust Melee Critical Chance.
 
 ## Installation
 - Drag and Drop
